@@ -15,6 +15,5 @@ Once you create your azure subscription, you should visit https://portal.azure.c
 
 
 ![Alt text](https://github.com/riccardopinosio/spark_training/blob/master/assets/Screenshot%202020-10-23%20125638.png?sanitize=true)
-<img src="https://github.com/riccardopinosio/spark_training/blob/master/assets/Screenshot%202020-10-23%20125638.png?sanitize=true">
 
 Please contact rpinosi2@hva.nl for information regarding this repository.
