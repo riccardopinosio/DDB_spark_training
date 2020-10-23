@@ -5,4 +5,4 @@ This repository contains the material for the spark training sessions, in partic
 1. The slides (under *presentations*)
 2. The databricks notebooks
 
-Please contact rpinosi@hva.nl for information regarding this repository.
+Please contact rpinosi2@hva.nl for information regarding this repository.
