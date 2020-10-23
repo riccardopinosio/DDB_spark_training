@@ -16,4 +16,9 @@ Once you create your azure subscription, you should visit https://portal.azure.c
 
 ![Alt text](https://github.com/riccardopinosio/spark_training/blob/master/assets/Screenshot%202020-10-23%20125638.png?sanitize=true)
 
+On the upper left of the screen, you can use the hamburger button to open the navigation tab. If you click on 'cost management and billing', you will see the details of your subscription. If you use method 1 above, it will say 'azure for students':
+
+![Alt text](https://github.com/riccardopinosio/spark_training/blob/master/assets/Screenshot%202020-10-23%20130149.png?sanitize=true)
+
+
 Please contact rpinosi2@hva.nl for information regarding this repository.
