@@ -20,5 +20,7 @@ On the upper left of the screen, you can use the hamburger button to open the na
 
 ![Alt text](https://github.com/riccardopinosio/spark_training/blob/master/assets/Screenshot%202020-10-23%20130149.png?sanitize=true)
 
+Once you do this, you are good to go for the spark sessions.
+
 
 Please contact rpinosi2@hva.nl for information regarding this repository.
