@@ -14,7 +14,7 @@ For the spark trainings, it is important to have an active subscription with azu
 Once you create your azure subscription, you should visit https://portal.azure.com and login with your email and the password you chose when you created the account. After you login, you should get a welcome message and after that, you will se the main screen of the portal, which will look something like this:
 
 
-![Alt text](https://raw.github.com/riccardopinosio/spark_training/blob/master/assets/Screenshot%202020-10-23%20125638.png?sanitize=true)
-<img src="https://raw.github.com/riccardopinosio/spark_training/blob/master/assets/Screenshot%202020-10-23%20125638.png?sanitize=true">
+![Alt text](https://github.com/riccardopinosio/spark_training/blob/master/assets/Screenshot%202020-10-23%20125638.png?sanitize=true)
+<img src="https://github.com/riccardopinosio/spark_training/blob/master/assets/Screenshot%202020-10-23%20125638.png?sanitize=true">
 
 Please contact rpinosi2@hva.nl for information regarding this repository.
