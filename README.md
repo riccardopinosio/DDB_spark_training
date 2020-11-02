@@ -5,7 +5,9 @@ This repository contains the material for the spark training sessions, in partic
 1. The slides (under *presentations*)
 2. The databricks notebooks
 
-The slides are based on doing things on Azure, but unfortunately it turns out that azure does not support the creation of databricks clusters on their azure for students or free accounts, because of some arcane quota limitations. Therefore, to try out spark, we can use azure databricks community edition. This will allow you to create a small cluster to try out spark. You can sign up to the community edition, and create a spark cluster, here: https://databricks.com/try-databricks?utm_medium=cpc&utm_source=google&utm_campaign=926437904&utm_offer=try-databricks&utm_content=trial&utm_term=databricks%20community%20edition&gclid=EAIaIQobChMIwZOLh8bj7AIVR-N3Ch0AcwDkEAAYASAAEgJ82fD_BwE
+The slides are based on doing things on Azure, but unfortunately it turns out that azure does not support the creation of databricks clusters on their azure for students or free accounts, because of some arcane quota limitations. Therefore, to try out spark, we can use azure databricks community edition. This will allow you to create a small cluster to try out spark. You can sign up to the community edition, and create a spark cluster, here: 
+
+https://databricks.com/try-databricks?utm_medium=cpc&utm_source=google&utm_campaign=926437904&utm_offer=try-databricks&utm_content=trial&utm_term=databricks%20community%20edition&gclid=EAIaIQobChMIwZOLh8bj7AIVR-N3Ch0AcwDkEAAYASAAEgJ82fD_BwE
 
 In particular, the IoT_databricks_data_analysis notebook will run without problems on the cluster. Similarly, the cluster will also support the analysis of the funda dataset without problems.
 The smart meter london dataset is larger (around 10GB), and is pushing the limits of the cluster. Therefore, for that dataset it will be important to aggregate it at a higher level of granularity (from half-hourly to daily) to perform your analysis.
