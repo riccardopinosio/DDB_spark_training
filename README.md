@@ -5,6 +5,8 @@ This repository contains the material for the spark training sessions, in partic
 1. The slides (under *presentations*)
 2. The databricks notebooks
 
+The slides are based on doing things on Azure, but unfortunately it turns out that azure does not support the creation of databricks clusters on their azure for students or free accounts, because of some arcane quota limitations. Therefore, to try out spark, we can use azure databricks community edition. This will allow you to create a small cluster to try out spark. In particular, the IoT_databricks_data_analysis notebook will run without problems on the cluster. Similarly, the cluster will also support the analysis of the funda dataset without problems.
+The smart meter london dataset is larger (around 10GB), and is pushing the limits of the cluster. Therefore, for that dataset it will be important to aggregate it at a higher level of granularity (from half-hourly to daily) to perform your analysis.
 
 <!---
 For the spark trainings, it is important to have an active subscription with azure, that you will use to create resources/load data into resources/process the data. If you don't already have an azure subscription that you want to use, you should create one using one of these steps:
