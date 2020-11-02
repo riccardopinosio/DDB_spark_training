@@ -15,6 +15,8 @@ In particular, the **IoT_databricks_data_analysis** notebook will run without pr
 
 The **smart meter london dataset**, however, is larger (around 10GB), and pushing the limits of the cluster. Therefore, for that dataset it will be important to aggregate it at a higher level of granularity (from half-hourly to daily) and then perform your analysis.
 
+Note that while the IoT databricks notebook uses data already available within databricks, for the smart meter london notebook or to analyze the funda dataset you will need to upload data into databricks. You can do this from the data tab, then clicking on "add data", and then on "upload".
+
 <!---
 For the spark trainings, it is important to have an active subscription with azure, that you will use to create resources/load data into resources/process the data. If you don't already have an azure subscription that you want to use, you should create one using one of these steps:
 
