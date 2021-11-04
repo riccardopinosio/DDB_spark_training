@@ -1,4 +1,4 @@
-# spark_training
+# Spark Training
 
 This repository contains the material for the spark training sessions, in particular:
 
