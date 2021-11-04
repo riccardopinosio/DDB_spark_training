@@ -34,11 +34,15 @@
 
 # COMMAND ----------
 
+# connecting to the azure data lake. Here scope and key need to be replaced with the scope and keys you created when you setup the
+# databricks secrets
 spark.conf.set("fs.azure.account.key.adsliot.dfs.core.windows.net", dbutils.secrets.get(scope="dataconnections", key="connection"))
+# list the files in the data lake
 dbutils.fs.ls("abfss://iotdata@adsliot.dfs.core.windows.net")
 
 # COMMAND ----------
 
+# set the number of shuffle partitions
 spark.conf.set("spark.sql.shuffle.partitions", 80)
 
 # COMMAND ----------
